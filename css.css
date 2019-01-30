@@ -1,0 +1,28 @@
+/*Amr Jamal*/
+
+body{ background:url("2.jpg")no-repeat fixed center ; background-size: cover; }
+
+
+
+textarea{ text-shadow: 10px 10px 10px #FF3E17;
+
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+
+    outline: 5px dotted #1F1FFF;
+
+}
+
+.aa{
+
+    transition: all 3s ease;
+
+
+
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+
+    outline: 2px dotted #5c5c5c;
+}
